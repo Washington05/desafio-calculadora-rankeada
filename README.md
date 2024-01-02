@@ -1,24 +1,28 @@
-desafio-DIO-calculadora-partida-rankeadas
+# desafio-DIO-calculadora-partida-rankeadas
 Entrega do desafio "Calculadora de Partidas Rankeadas" do curso da DIO
+ # 2️⃣ Calculadora de partidas Rankeadas
+**O Que deve ser utilizado**
 
-2️⃣ Calculadora de partidas Rankeadas
-O Que deve ser utilizado
+- Variáveis
+- Operadores
+- Laços de repetição
+- Estruturas de decisões
+- Funções
 
-Variáveis
-Operadores
-Laços de repetição
-Estruturas de decisões
-Funções
-Objetivo:
-Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
+## Objetivo:
 
-Se vitórias for menor do que 10 = Ferro
-Se vitórias for entre 11 e 20 = Bronze
-Se vitórias for entre 21 e 50 = Prata
-Se vitórias for entre 51 e 80 = Ouro
-Se vitórias for entre 81 e 90 = Diamante
-Se vitórias for entre 91 e 100= Lendário
-Se vitórias for maior ou igual a 101 = Imortal
+Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
+depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
-Saída
-Ao final deve se exibir uma mensagem: "O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}"
+Se vitórias for menor do que 10 = Ferro<br>
+Se vitórias for entre 11 e 20 = Bronze<br>
+Se vitórias for entre 21 e 50 = Prata<br>
+Se vitórias for entre 51 e 80 = Ouro<br>
+Se vitórias for entre 81 e 90 = Diamante<br>
+Se vitórias for entre 91 e 100= Lendário<br>
+Se vitórias for maior ou igual a 101 = Imortal<br>
+
+## Saída
+
+Ao final deve se exibir uma mensagem:
+"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
